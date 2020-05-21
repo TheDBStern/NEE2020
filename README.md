@@ -1,5 +1,5 @@
 # NEE2020
-Scripts to recreate the analyses (post SNP-calling) of Stern and Lee 2020. Evolutionary origins of genomic adaptations in an invasive copepod
+Scripts to facilitate the analyses (post SNP-calling) of Stern and Lee 2020. Evolutionary origins of genomic adaptations in an invasive copepod
 
 All scripts have some description and help info accessible with -h or --help.
 
